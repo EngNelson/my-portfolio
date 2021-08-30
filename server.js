@@ -11,5 +11,5 @@ app.get('/', function (req, res) {
 
 
 app.listen(port, () => {
-    console.log("Application served and running on Port ", Port);
+    console.log("Application served and running on Port ", port);
 });
